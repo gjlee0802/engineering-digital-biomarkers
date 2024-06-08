@@ -11,7 +11,7 @@ With collected data(Accelerometer, Blood volume pulse, Electrodermal activity, T
 
 ## Code Description
 - [exploring_digital_biomarkers_a_day.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/exploring_digital_biomarkers_a_day.ipynb) : Data Exploration(for a day) Phase Related Code
-- [feature_engineering.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/feature_engineering.ipynb) : Code of the Feature Engineering step
+- [feature_engineering.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/feature_engineering.ipynb) : Code of the Data Preprocessing & Feature Engineering step
 - [df_glucose_histogram.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/exploring_digital_biomarkers_a_day.ipynb) : Histograms of three glucose level classifications(PersLow / PersNorm / PersHigh)
 - [randomforest_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/randomforest_regressor.ipynb) : LOOCV Random Forest Regressor & Feature Importance
 - [LightGBM_Classifier_forPull.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/LightGBM_Classifier_forPull.ipynb) : Classifier Model Using LightGBM
