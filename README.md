@@ -1,4 +1,4 @@
-# Predicting glucose levels with data collected by non-invasive device
+# Predicting glucose levels with data collected by non-invasive wearable device
 This is a project to predict glucose by learning data collected by wearable devices and food logs.
 
 With collected data(Accelerometer, Blood volume pulse, Electrodermal activity, Temperature, Interbeat interval, Heart rate, Food Log, Interstitial glucose concentration), feature engineering is performed to utilize meaningful features for learning.
