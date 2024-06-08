@@ -4,10 +4,10 @@ This is a project to predict glucose by learning data collected by wearable devi
 With collected data(Accelerometer, Blood volume pulse, Electrodermal activity, Temperature, Interbeat interval, Heart rate, Food Log, Interstitial glucose concentration), feature engineering is performed to utilize meaningful features for learning.
 
 ## Team members
-- 이경주 (Team Leader)
-- 서민경
-- 김지수
-- 남광규
+- [이경주 (Team Leader)](https://github.com/gjlee0802)
+- [서민경](https://github.com/mingg12)
+- [김지수](https://github.com/itsthejisoo)
+- [남광규](https://github.com/kwanggyu99)
 
 ## Code Description
 - [exploring_digital_biomarkers_a_day.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/exploring_digital_biomarkers_a_day.ipynb) : Data **Exploration**(for a day) Phase Related Code
