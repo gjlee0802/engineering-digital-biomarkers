@@ -16,8 +16,8 @@ With collected data(Accelerometer, Blood volume pulse, Electrodermal activity, T
 - [randomforest_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/randomforest_regressor.ipynb) : LOOCV Random Forest Regressor & **Feature Importance**
 - [LightGBM_Classifier_forPull.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/LightGBM_Classifier_forPull.ipynb) : **Classifier** Model Using **LightGBM**
 - [lightGBM_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/lightGBM_regressor.ipynb) : **LOOCV Regressor** Model Using **LightGBM**
-- [pycaret_classifier_undersampling.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/lightGBM_regressor.ipynb) : Exploring **classifier** model with PyCaret (Class-balanced Using Under Sampling)
-- [pycaret_classifier_smote.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/lightGBM_regressor.ipynb) : Exploring **classifier** model with PyCaret (Class-balanced Using SMOTE)
+- [pycaret_classifier_undersampling.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/pycaret_classifier_undersampling.ipynb) : Exploring **classifier** model with PyCaret (Class-balanced Using Under Sampling)
+- [pycaret_classifier_smote.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/pycaret_classifier_smote.ipynb) : Exploring **classifier** model with PyCaret (Class-balanced Using SMOTE)
 - [pycaret_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/pycaret_regressor.ipynb) : Exploring **LOOCV regressor** model with PyCaret (PCA performed)
 ## Citation
 ### Resource
