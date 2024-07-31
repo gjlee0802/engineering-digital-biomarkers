@@ -6,7 +6,7 @@ With collected data(Accelerometer, Blood volume pulse, Electrodermal activity, T
 ## Data Science Lecture Team Project - Team members (May 20th ~ June 9th)
 Led this project as a data science lecture team project.  
 From: 24.05.20  
-To: 25.06.09  
+To: 24.06.09  
 - [이경주 (Team Leader)](https://github.com/gjlee0802)
 - [서민경](https://github.com/mingg12)
 - [김지수](https://github.com/itsthejisoo)
