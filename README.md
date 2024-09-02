@@ -12,6 +12,9 @@ To: 24.06.09
 - [김지수](https://github.com/itsthejisoo)
 - [남광규](https://github.com/kwanggyu99)
 
+## KAIST ICLab Project - Undergraduate Research Intern
+Period: 2024.07.01 ~ 2024.08.23 (5th Week ~ 8th Week)  
+[Final Presentation Google Slide](https://docs.google.com/presentation/d/1L_wW0U8q1avQ7Idslrm_KxD4gqB5mlhuEmSXQoU07ZQ/edit?usp=sharing)
 ## Code Description
 - [exploring_digital_biomarkers_a_day.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/exploring_digital_biomarkers_a_day.ipynb) : Data **Exploration**(for a day) Phase Related Code
 - [feature_engineering.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/feature_engineering.ipynb) : Code of the **Data Preprocessing & Feature Engineering (Feature Extraction + Feature Preparing)** step
