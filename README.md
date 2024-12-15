@@ -17,9 +17,7 @@ Period: 2024.07.01 ~ 2024.08.23 (5th Week ~ 8th Week)
 [Final Presentation Google Slide](https://docs.google.com/presentation/d/1L_wW0U8q1avQ7Idslrm_KxD4gqB5mlhuEmSXQoU07ZQ/edit?usp=sharing)
 ## Code Description
 - [exploring_digital_biomarkers_a_day.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/exploring_digital_biomarkers_a_day.ipynb) : Data **Exploration**(for a day) Phase Related Code
-- [feature_engineering.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/feature_engineering.ipynb) : Code of the **Data Preprocessing & Feature Engineering (Feature Extraction + Feature Preparing)** step
-- [df_glucose_histogram.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/df_glucose_histogram.ipynb) : **Histograms of three glucose level** classifications(PersLow / PersNorm / PersHigh) referencing original publication
-- [randomforest_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/randomforest_regressor.ipynb) : **Random Forest Regressor**(Cross Validation Methods: Leave One Subject Out, Partial Personalization)
+- [feature_engineering.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/feature_engineering.ipynb) : Code of the **Data Preprocessing & Feature Engineering (Feature Extraction)** step
 - [xgboost_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/xgboost_regressor.ipynb) : **XGBoost Regressor**(Cross Validation Methods: Leave One Subject Out, Partial Personalization)
 ## Citation
 ### Resource
