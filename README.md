@@ -12,7 +12,7 @@ To: 24.06.09
 - [김지수](https://github.com/itsthejisoo)
 - [남광규](https://github.com/kwanggyu99)
 
-## KAIST ICLab Project - Undergraduate Research Intern
+## KAIST ICLab Project - Research Intern
 Period: 2024.07.01 ~ 2024.08.23 (5th Week ~ 8th Week)  
 [Final Presentation Google Slide](https://docs.google.com/presentation/d/1L_wW0U8q1avQ7Idslrm_KxD4gqB5mlhuEmSXQoU07ZQ/edit?usp=sharing)
 ## Code Description
