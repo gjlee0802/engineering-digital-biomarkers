@@ -24,6 +24,8 @@ Period: 2024.07.01 ~ 2024.08.23 (5th Week ~ 8th Week)
 ## Preview Images
 ![prediction_vs_true_id_8_day_2](https://github.com/user-attachments/assets/2570ad97-8757-4235-ab86-05128499cc43)  
 ![xgbr_personalized_8_day_2_heatmap](https://github.com/user-attachments/assets/59f79190-b099-4f0b-8dd9-a21621ecbbcf)  
+## Splitting Methods
+![splitting](https://github.com/user-attachments/assets/27710093-a6be-407c-b899-4f0ba5723ec5)
 ## Citation
 ### Resource
 Cho, P., Kim, J., Bent, B., & Dunn, J. (2023). BIG IDEAs Lab Glycemic Variability and Wearable Device Data (version 1.1.2). PhysioNet. https://doi.org/10.13026/zthx-5212.
