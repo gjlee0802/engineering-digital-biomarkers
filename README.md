@@ -21,6 +21,9 @@ Period: 2024.07.01 ~ 2024.08.23 (5th Week ~ 8th Week)
 - [xgboost_regressor.ipynb](https://github.com/gjlee0802/engineering-digital-biomarkers/blob/main/xgboost_regressor.ipynb) : **XGBoost Regressor**(Cross Validation Methods: Leave One Subject Out, Partial Personalization)
 - [SHapley Additive ex-Planations (SHAP) results](https://github.com/gjlee0802/engineering-digital-biomarkers/tree/main/shap_results): force_plot | heatmap | summary_plot per a day
 - [Prediction plots](https://github.com/gjlee0802/engineering-digital-biomarkers/tree/main/prediction_plots)
+## Preview Images
+![prediction_vs_true_id_8_day_2](https://github.com/user-attachments/assets/2570ad97-8757-4235-ab86-05128499cc43)  
+![xgbr_personalized_8_day_2_heatmap](https://github.com/user-attachments/assets/59f79190-b099-4f0b-8dd9-a21621ecbbcf)  
 ## Citation
 ### Resource
 Cho, P., Kim, J., Bent, B., & Dunn, J. (2023). BIG IDEAs Lab Glycemic Variability and Wearable Device Data (version 1.1.2). PhysioNet. https://doi.org/10.13026/zthx-5212.
